@@ -1,4 +1,4 @@
-### Oi! Meu nome é Daniela Cristina, iniciante nesse mundo de tecnologia.
+### Oi! Meu nome é Daniela Cristina e estou em transição de carreira para a área tech. :blush:
 
 ##
 
