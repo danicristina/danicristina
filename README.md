@@ -1,4 +1,8 @@
-### Oi! Meu nome é Daniela Cristina e estou em transição de carreira para a área tech. :blush:
+### Oie! Meu nome é Daniela 
+
+Uma pessoa apaixonada por aprender e que ama soluções tecnológicas. Sou formada em Engenharia Mecânica com pós graduação em Engenharia de Produção e busco uma transição de carreira para a área tech. :blush:
+
+- 🌱 No momento estou aprendendo **Java e JavaScript**
 
 ##
 
